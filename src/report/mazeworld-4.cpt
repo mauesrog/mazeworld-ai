@@ -1,0 +1,1 @@
+An example of A*S solving a 100x100 maze with a blind robot with initial position at $(0,0)$ and goal at $(99,0)$. The pink path represents the solution path.^^E^^L 
